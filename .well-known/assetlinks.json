@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fgramon.twa",
+        "sha256_cert_fingerprints": ["72:81:2F:84:81:29:94:87:01:84:A4:E2:CF:C6:41:FF:49:F8:96:4D:DB:11:1D:05:86:59:19:88:87:C0:A1:60"]
+      }
+    }]
