@@ -1,7 +1,7 @@
 /* Chamados Vix Log — service worker
    Troque a versão abaixo sempre que atualizar o app: isso força
    todos os celulares a baixarem a versão nova na próxima abertura. */
-const VERSAO = 'chamados-vixlog-v1';
+const VERSAO = 'chamados-vixlog-v2';
 const ARQUIVOS = [
   './',
   './index.html',
